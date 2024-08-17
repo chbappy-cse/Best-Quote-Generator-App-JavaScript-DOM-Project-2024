@@ -1,1 +1,1 @@
-# Quote-Generator-App-JavaScript-DOM-Project-2024
+# JavaScript Quote Generator App Project
